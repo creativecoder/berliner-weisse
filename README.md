@@ -274,29 +274,20 @@ Batch Sparge 2   | Infusion    | 1.593 gal | 168.000 F | 168.000 F | 5 min
 
 **Lacto Fermentation and recipes**
 
-http://www.themadfermentationist.com/2008/02/berliner-weiss.html
-
-http://www.themadfermentationist.com/2009/07/cabernet-berliner-weiss.html
-
-http://www.themadfermentationist.com/2010/05/double-berliner-weisse-brew.html
-
-http://www.themadfermentationist.com/2014/09/lemon-berliner-weisse-recipe.html
-
-http://www.themadfermentationist.com/2012/06/100-lactobacillus-berliner-weisse.html
-
-https://www.morebeer.com/articles/berliner_weisse
-
-http://www.homebrewtalk.com/showthread.php?t=95539
-
-http://www.beetsandbones.com/berliner-style-weisse-beer-recipe/
+[http://www.themadfermentationist.com/2008/02/berliner-weiss.html](http://www.themadfermentationist.com/2008/02/berliner-weiss.html)
+[http://www.themadfermentationist.com/2009/07/cabernet-berliner-weiss.html](http://www.themadfermentationist.com/2009/07/cabernet-berliner-weiss.html)
+[http://www.themadfermentationist.com/2010/05/double-berliner-weisse-brew.html](http://www.themadfermentationist.com/2010/05/double-berliner-weisse-brew.html)
+[http://www.themadfermentationist.com/2014/09/lemon-berliner-weisse-recipe.html](http://www.themadfermentationist.com/2014/09/lemon-berliner-weisse-recipe.html)
+[http://www.themadfermentationist.com/2012/06/100-lactobacillus-berliner-weisse.html](http://www.themadfermentationist.com/2012/06/100-lactobacillus-berliner-weisse.html)
+[https://www.morebeer.com/articles/berliner_weisse](https://www.morebeer.com/articles/berliner_weisse)
+[http://www.homebrewtalk.com/showthread.php?t=95539](http://www.homebrewtalk.com/showthread.php?t=95539)
+[http://www.beetsandbones.com/berliner-style-weisse-beer-recipe/](http://www.beetsandbones.com/berliner-style-weisse-beer-recipe/)
 
 **Sour Mashing**
 
-http://www.homebrewtalk.com/Sour-Mashing-My-Berliner-Weisse.html
-
-http://www.thepourreport.com/berliner-weisse-recipe-and-brewday/
-
-http://anarchylane.com/blog/?p=1442
+[http://www.homebrewtalk.com/Sour-Mashing-My-Berliner-Weisse.html](http://www.homebrewtalk.com/Sour-Mashing-My-Berliner-Weisse.html)
+[http://www.thepourreport.com/berliner-weisse-recipe-and-brewday/](http://www.thepourreport.com/berliner-weisse-recipe-and-brewday/)
+[http://anarchylane.com/blog/?p=1442](http://anarchylane.com/blog/?p=1442)
 
 Brewing with Wheat by Stan Hieronymus
 p 149-155, 166-168, 174-176
