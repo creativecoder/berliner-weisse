@@ -8,40 +8,53 @@
 
 (from Brewing with Wheat, p150-154)
 
-- What we today call "Berliner Weiss" evolved from several different brewing practices and variations.
-- It is widely believed that the term "weiss", meaning white, was used in the past to distinguish pale wheat beer from its darker contemporaries.
-- The earliest reference to the beer is from a special tax was established on Berlin's weissbier in 1680. But nothing indicates that Berlin's wheat beer was any different from any other "white" beer in the region at the time, and there's no mention of the sour, lactic flavors we associate with the style today.
-- When sourness was associated with the style, it wasn't always considered desirable. In 1765, at least some brewers were trying to find a way to make a white beer that would not turn sour.
-- It seems the beer was always kept as light as possible, using air-dried or lightly kilned malts and little or no boiling of the wort.
-- Until the 1860s, smoked wheat malt was used to brew Berliner weiss, until one brewer experimented with an unsmoked version that was received so well that other brewers quickly followed.
-- Traditionally the beer was consumed after sweetening in the glass with caraway liqueur. Today the beer is traditionally consumed instead with a dash of rasberry or woodruff syrup.
+What we today call "Berliner Weiss" evolved from several different brewing practices and variations.
+
+It is widely believed that the term "weiss", meaning white, was used in the past to distinguish pale wheat beer from its darker contemporaries.
+
+The earliest reference to the beer is from a special tax was established on Berlin's weissbier in 1680. But nothing indicates that Berlin's wheat beer was any different from any other "white" beer in the region at the time, and there's no mention of the sour, lactic flavors we associate with the style today.
+
+When sourness was associated with the style, it wasn't always considered desirable. In 1765, at least some brewers were trying to find a way to make a white beer that would not turn sour.
+
+It seems the beer was always kept as light as possible, using air-dried or lightly kilned malts and little or no boiling of the wort.
+
+Until the 1860s, smoked wheat malt was used to brew Berliner weiss, until one brewer experimented with an unsmoked version that was received so well that other brewers quickly followed.
+
+Traditionally the beer was consumed after sweetening in the glass with caraway liqueur. Today the beer is traditionally consumed instead with a dash of rasberry or woodruff syrup.
 
 
 ## BJCP Style Guidelines (2015)
 
 #### Characteristics
 
-- Aroma
-	- Sharply sour
-	- Up to moderately fruity, lemon or tart apple
-	- No hop aroma
-  - Uncooked bread dough or sourdough-like aroma from wheat
-- Appearance
-	- Pale straw color
-	- Clear to hazy
-  - Large, dense, white head with poor retention
-- Flavor
-	- Clean, lactic sourness, can be quite strong
-	- Light, bread dough or grainy malt flavor
-	- No hop flavor or bitterness
-  - Should have some malt flavor, but dominated by sourness
-	- Very dry finish
-	- May have a restrained funk from Brettanomyces
-- Mouthfeel
-	- Light body
-	- High carbonation
-  - No alchohol sensation
-	- Crisp, juicy acidity
+**Aroma**
+
+- Sharply sour
+- Up to moderately fruity, lemon or tart apple
+- No hop aroma
+- Uncooked bread dough or sourdough-like aroma from wheat
+
+**Appearance**
+
+- Pale straw color
+- Clear to hazy
+- Large, dense, white head with poor retention
+
+**Flavor**
+
+- Clean, lactic sourness, can be quite strong
+- Light, bread dough or grainy malt flavor
+- No hop flavor or bitterness
+- Should have some malt flavor, but dominated by sourness
+- Very dry finish
+- May have a restrained funk from Brettanomyces
+	
+**Mouthfeel**
+
+- Light body
+- High carbonation
+- No alchohol sensation
+- Crisp, juicy acidity
 
 #### Stats
 
@@ -53,7 +66,7 @@ Name     | Range
 **FG**   | 1.003-1.006
 **ABV**  | 2.8-3.8%
 
-Highly carbonated, 2.9-4 CO2 volumes
+Highly carbonated, **2.9-4 CO2 volumes**
 
 ## Ingredients and Process
 
@@ -72,21 +85,23 @@ Highly carbonated, 2.9-4 CO2 volumes
 
 ##### Water
 
-For Madison's hard water, you will probably want to lower the mash pH in some way for this very light beer. This is one beer where the sour flavors added from using acidulated malt to lower mash pH are welcome! Start with about 5% acidulated malt.
+For Madison's hard water, you will probably want to lower the mash pH in some way for this very light beer. This is one beer where the sour flavors added from using acidulated malt to lower mash pH are welcome!
+
+Start with about 5% acidulated malt.
 
 ##### Mash
 
 - Triple decoction mash is traditional
 - Can use a single decoction or even infusion to save time
 - Example mash schedule
-  - Mash in at protein rest temperature (122-132 ˚F) for 10-30 min
-  - Decoction
+  1. Mash in at protein rest temperature (122-132 ˚F) for 10-30 min
+  2. Decoction
     - Pull thick decoction
     - Raise to 150 ˚F and hold for 5-10 min for saccharification
     - Raise to boiling and hold for 5 min (keep the boil short to avoid color development)
-  - Add decoction back to main mash to raise mash temp to 148-152 ˚F for 30-60 min
-  - Some mash schedules also call for an additional rest at 162-166 ˚F for 30 min
-  - Raise mash to 168-170 ˚F to mash out
+  3. Add decoction back to main mash to raise mash temp to 148-152 ˚F for 30-60 min
+  4. Some mash schedules also call for an additional rest at 162-166 ˚F for 30 min
+  5. Raise mash to 168-170 ˚F to mash out
 
 ##### Boil
 
@@ -99,7 +114,7 @@ For Madison's hard water, you will probably want to lower the mash pH in some wa
 You need to get Lactobacillus from somewhere. You can:
 
 1. Pitch a commercial Lactobacillus culture
-2. Cultivate it yourself: lacto grows on lots of things, including malt!
+2. Cultivate it yourself: Lacto grows on lots of things, including malt!
 
 You need to introduce lacto into the wort. You can:
 
@@ -111,7 +126,7 @@ You need to introduce lacto into the wort. You can:
   - Once the wort is "sour enough", lauter the wort into the kettle
   - Boiling (or bringing wort to near boiling temperature) will kill Lactobacillus (and anything else) and lock in the sour profile
 2. Sour the wort in the kettle
-  - Same as above, but lauter the wort into the kettle first, and conducting souring in the kettle
+  - Same as above, but lauter the wort into the kettle first, and conduct souring in the kettle
 3. Pitch Lactobacillus in the fermentor by itself before the yeast
   - This allows using an established Lactobacillus culture
   - If possible, conduct intial fermentation at 85-105 ˚F to encourage Lacto culture
@@ -143,6 +158,7 @@ You could also try a 100% Lactobacillus beer, if you have a strong enough cultur
 #### Examples from Professional Breweries
 
 **Berliner-Kindl-Schultheiss in Germany**
+
 (Brewing with Wheat p 155-156)
 
 - 25% wheat malt ([though morebeer.com says 50%](https://www.morebeer.com/articles/berliner_weisse))
@@ -154,6 +170,7 @@ You could also try a 100% Lactobacillus beer, if you have a strong enough cultur
 - Both halves are combined and cold condition for secondary fermentation
 
 **Nodding Head Brewery**
+
 (Brewing with Wheat p 166-168)
 
 - 40% wheat malt
@@ -167,11 +184,15 @@ You could also try a 100% Lactobacillus beer, if you have a strong enough cultur
 **White Labs**
 
 Standard cultures
+
 - [WLP672 Lactobacillus brevis](http://www.whitelabs.com/yeast-bank/wlp672-lactobacillus-brevis)
-  - Typically produces more lactic acid than Lactobacillus delbrueckii, this is the culture traditionally found in Berliner weiss
+	- Typically produces more lactic acid than Lactobacillus delbrueckii, this is the culture traditionally found in Berliner weiss
 - [WLP677 Lactobacillus delbrueckii Bacteria](http://www.whitelabs.com/yeast-bank/wlp677-lactobacillus-delbrueckii-bacteria)
+- [WLP630 Berliner Weisse Blend](http://www.whitelabs.com/yeast-bank/wlp630-berliner-weisse-blend)
+	- Blend of yeast and Lactobacillus
 
 Yeast vault cultures
+
 (https://www.whitelabs.com/yeast-vault#wlp669-lactobacillus-paracollinoides)
 
 - WLP669 Lactobacillus paracollinoides
@@ -186,12 +207,14 @@ Yeast vault cultures
 
 **Wyeast Labs**
 
+- [5335 Lactobacillus buchneri](http://www.wyeastlab.com/yeast-strain/lactobacillus)
 - [5223-PC Lactobacillus brevis](http://www.wyeastlab.com/yeast-strain/lactobacillus-brevis)
-- [5335 Lactobacillus buchneri](http://www.wyeastlab.com/yeast-strain/lactobacillus)  
+- [3191-PC Berliner Weisse Blend](http://www.wyeastlab.com/yeast-strain/berliner-weisse-blend)
 
 **Omega Yeast Labs**
 
 [OYL-605 Lactobacillus Blend](http://www.omegayeast.com/portfolio/lactobacillus-blend/)
+
 - Blend of brevis and plantarum
 - Works over a wider temperature range
 - Extremely sensitive to hops (max of of 1 IBU)
@@ -220,7 +243,8 @@ Pilsen Malt (Briess)        | Grain    | 3.000 lb  | Yes     | No    | 74%    | 
 Wheat Malt, White (Briess)  | Grain    | 3.000 lb  | Yes     | No    | 81%    | 2.5 srm  
 Acidulated Malt (Best)      | Grain    | 4.000 oz  | Yes     | No    | 78%    | 2.0 srm  
 Rice Hulls                  | Adjunct  | 8.000 oz  | Yes     | No    | 0%     | 0.0 srm  
-Total grain: 6.750 lb
+
+Total grain: 6.250 lb
 
 **Hops**
 
@@ -248,21 +272,30 @@ Batch Sparge 2   | Infusion    | 1.593 gal | 168.000 F | 168.000 F | 5 min
 
 ## Additional Resources
 
-Lacto Fermentation and recipes
+**Lacto Fermentation and recipes**
 
 http://www.themadfermentationist.com/2008/02/berliner-weiss.html
+
 http://www.themadfermentationist.com/2009/07/cabernet-berliner-weiss.html
+
 http://www.themadfermentationist.com/2010/05/double-berliner-weisse-brew.html
+
 http://www.themadfermentationist.com/2014/09/lemon-berliner-weisse-recipe.html
+
 http://www.themadfermentationist.com/2012/06/100-lactobacillus-berliner-weisse.html
+
 https://www.morebeer.com/articles/berliner_weisse
+
 http://www.homebrewtalk.com/showthread.php?t=95539
+
 http://www.beetsandbones.com/berliner-style-weisse-beer-recipe/
 
-Sour Mashing
+**Sour Mashing**
 
 http://www.homebrewtalk.com/Sour-Mashing-My-Berliner-Weisse.html
+
 http://www.thepourreport.com/berliner-weisse-recipe-and-brewday/
+
 http://anarchylane.com/blog/?p=1442
 
 Brewing with Wheat by Stan Hieronymus
