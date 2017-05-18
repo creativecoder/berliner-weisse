@@ -121,7 +121,8 @@ You need to introduce lacto into the wort. You can:
 1. Sour the mash
   - Mash normally, until mash out
   - Instead of mashing out, let mash cool to ~100 ˚F and add 0.5 lb of uncrushed 2 Row malt
-  - Hold at 100 ˚F for 1-3 days
+  - Hold at 100-105 ˚F for 1-3 days
+  - Beware of dropping below 100 ˚F, into the range where bacteria is more likely to grow
   - Sample every 8-12 hours
   - Once the wort is "sour enough", lauter the wort into the kettle
   - Boiling (or bringing wort to near boiling temperature) will kill Lactobacillus (and anything else) and lock in the sour profile
@@ -144,7 +145,7 @@ You could also try a 100% Lactobacillus beer, if you have a strong enough cultur
 #### Making a Lacto Starter
 
 - Can be made with malt/malt extract or with apple juice
-- Keep the starter warm, 95-105 ˚F for the most growth
+- Keep the starter warm, 100-105 ˚F for the most growth
 - Lactobacillus does not need oxygen like brewing yeast does, so you skip the stir plate
 - A yogurt maker is a great tool for cultivating a lacto starter, if you have one, since it's made to hold the temperature at ~100 ˚F
 - Note that Lactobacillus doesn't floculate like yeast to the bottom... pitch the whole starter
